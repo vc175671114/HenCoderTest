@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialEdittext">
+        <attr name="useFloatingLAbel" format="boolean" />
+        <attr name="floatingLabelTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CircleView_zidingyi_radius_and_padding">
+        <attr name="radius" format="float" />
+        <attr name="padding" format="float" />
+    </declare-styleable>
+    <declare-styleable name="TabView">
+        <attr name="str" format="string" />
+    </declare-styleable>
+    <declare-styleable name="SquareView">
+        <attr name="horizonalNum" format="integer" />
+        <attr name="verticalNum" format="integer" />
+    </declare-styleable>
+</resources>

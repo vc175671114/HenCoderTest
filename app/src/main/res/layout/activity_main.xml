@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--<com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.MaterialEdittext-->
+    <!--android:id="@+id/view"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:hint="Hello World~~"-->
+    <!--app:floatingLabelTextColor="@color/material_green_600"-->
+    <!--app:useFloatingLAbel="true" />-->
+
+    <!--<com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.CircleView_zidingyi_radius_and_padding-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--app:padding="8"-->
+    <!--app:radius="60" />-->
+
+    <!--<com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.TabLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="@color/material_accentPink_a200" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="100dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:background="@color/material_red_500" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="@color/material_yellow_200" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="250dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:background="@color/material_amber_A200" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="150dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:background="@color/material_green_100" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="30dp"-->
+    <!--android:layout_height="150dp"-->
+    <!--android:background="@color/material_blue_300" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="60dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:background="@color/material_brown_300" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="@color/material_deepPurple_500" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="220dp"-->
+    <!--android:layout_height="20dp"-->
+    <!--android:background="@color/material_black" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="100dp"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:background="@color/material_teal_800" />-->
+    <!--</com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.TabLayout>-->
+
+    <!--<com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.SquareView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--app:horizonalNum="30"-->
+    <!--app:verticalNum="50" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.RotateView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

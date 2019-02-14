@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.ViewPagerSelf xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/material_deepPurple_500" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/material_yellow_500" />
+
+</com.example.test_hencoder_plus_07.test_hencoder_plus_07.view.ViewPagerSelf>
